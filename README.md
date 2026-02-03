@@ -41,11 +41,11 @@ python -m unittest discover
 4) Billing json file contains all the metrics which was required 
 
 ## Edge cases handled:-
-Empty usage files 
-invalid dates are skipped
-Cancelled subscriptions
-suspended subscriptions
-over the limit data usage are handled and calculated 
+1) Empty usage files 
+2) invalid dates are skipped
+3) Cancelled subscriptions
+4) suspended subscriptions
+5) over the limit data usage are handled and calculated 
 
 
 
